@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Francesco
 
-<!--
-**fradom22/fradom22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate (Politecnico di Milano – March 2026)  
+💻 Junior Software Engineer focused on Backend Development  
+🌍 Open to EU / remote opportunities  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Java, Python, SQL
+- **Backend:** REST APIs, MVC architecture
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker (basic)
+- **Cloud:** AWS fundamentals
+- **OS:** Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Background
+I currently work in an enterprise IT services environment, where I support
+complex systems and business-critical applications.
+Alongside my work, I focus on building backend-oriented software projects
+and strengthening my cloud and automation skills.
+
+## 📂 Projects
+Here you can find:
+- Backend and frontend applications (APIs, database-driven systems)
+- Academic and personal software projects
+- Experiments with cloud and automation tools
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/francesco-domanico-288064239
