@@ -24,5 +24,12 @@ Here you can find:
 - Academic and personal software projects
 - Experiments with cloud and automation tools
 
+## ⭐ Featured projects
+- **kicknclick** – Full-stack web app (Java backend + TypeScript frontend)  
+  https://github.com/fradom22/kicknclick
+- **Esyware** – Web app with Python backend (Flask) + SQL database init script  
+  https://github.com/fradom22/Esyware
+
+
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/francesco-domanico-288064239
