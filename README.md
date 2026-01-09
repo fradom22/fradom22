@@ -25,7 +25,7 @@ Here you can find:
 - Experiments with cloud and automation tools
 
 ## ⭐ Featured projects
-- **kicknclick** – Full-stack web app (Java backend + TypeScript frontend)  
+- **Kick-N-Click** – Full-stack web app (Java backend + TypeScript frontend)  
   https://github.com/fradom22/kicknclick
 - **Esyware** – Web app with Python backend (Flask) + SQL database init script  
   https://github.com/fradom22/Esyware
